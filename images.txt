@@ -1,3 +1,2 @@
 alpine
-jxxghp/moviepilot
-19970688/nastools-bt
+nastool/nas-tools
