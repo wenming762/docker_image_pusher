@@ -1,3 +1,2 @@
 alpine
-jxxghp/moviepilot
 moviepilot
