@@ -1,2 +1,1 @@
-jellyfin/jellyfin
-jemyzhang/vidonserver
+p3terx/aria2-pro
