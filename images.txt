@@ -1,1 +1,1 @@
-p3terx/aria2-pro
+auska/docker-aria2
