@@ -1,1 +1,1 @@
-ydkn/cups
+michaelbalser/airprint-generate
