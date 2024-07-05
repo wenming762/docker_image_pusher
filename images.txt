@@ -1,1 +1,1 @@
-michaelbalser/airprint-generate
+olbat/cupsd
