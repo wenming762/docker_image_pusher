@@ -1,1 +1,1 @@
-olbat/cupsd
+drpsychick/airprint-bridge
