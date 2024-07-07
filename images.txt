@@ -1,1 +1,1 @@
-olbat/cupsd
+jeessy/ddns-go
