@@ -1,2 +1,2 @@
 jeessy/ddns-go
-zishuo/embyserver
+lovechen/embyserver
