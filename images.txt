@@ -1,2 +1,1 @@
-jeessy/ddns-go
-lovechen/embyserver
+xiaoyaliu/alist
