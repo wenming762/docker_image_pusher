@@ -1,1 +1,1 @@
-oldiy/aria2-ui-ng
+auska/docker-aria2
