@@ -1,1 +1,1 @@
-jxxghp/moviepilot
+emby/embyserver
