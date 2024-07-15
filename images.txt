@@ -1,1 +1,1 @@
-odoo
+reseaucerta/odoo17
