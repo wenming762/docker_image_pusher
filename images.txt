@@ -1,1 +1,1 @@
-sardes/odoo16
+odoo
