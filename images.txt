@@ -1,1 +1,1 @@
-reseaucerta/odoo17
+jonitiso/odoo17
